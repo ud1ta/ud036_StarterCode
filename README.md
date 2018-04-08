@@ -29,8 +29,6 @@ git clone https://github.com/ud1ta/ud036_StarterCode.git
 
 Once you have the source code on your local machine, run the code as follows:
 
-Explain what these tests test and why
-
 ```
 python entertainment_centre.py
 ```
