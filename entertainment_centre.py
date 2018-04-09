@@ -22,7 +22,7 @@ ftkmf = media.Movie("First They Killed My Father",
 # Movie object for Blade Runner 2049
 blade_runner_2049 = media.Movie("Blade Runner 2049",
                                 # "Man has made his match. ...Now it's his problem.",  # noqa
-                                "https://cdn1.thr.com/sites/default/files/2017/05/blade_runner_xlg-embed.jpg",  # noqa
+                                "http://www.impawards.com/2017/posters/blade_runner_twenty_forty_nine_ver4.jpg",  # noqa
                                 "https://www.youtube.com/watch?v=gCcx85zbxz4")
 
 # Movie object for Dunkirk
